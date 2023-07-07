@@ -1,5 +1,5 @@
 # <div align="center">Airline Data Analysis</div>
-
+![image](https://github.com/yashmangal112/Airlines-Data-Analysis/assets/104120843/119c2c84-ea4a-4ea0-9e10-36cbbdf7d4da)
 ## Problem Statement
 
 <div align="justify"> Our company has been steadfastly delivering exceptional air transportation services to our esteemed clientele for numerous years, steadfast in our commitment to ensuring a secure, opulent, and expedient travel experience for our valued passengers. We maintain and operate a diverse fleet of aircraft, encompassing a wide spectrum from small-scale business jets to medium-sized machines. However, our present circumstances are marked by a series of formidable challenges arising from various factors, including more stringent environmental regulations, elevated flight taxes, escalating interest rates, surging fuel costs, and a constrained labor market that contributes to augmented labor expenditures. These challenges exert significant pressure on the company's financial viability, compelling us to actively explore and implement effective remedies to alleviate this predicament. As part of our strategy to confront this complex situation, our organization plans to conduct a comprehensive <b>analysis of our extensive database</b>, with the aim of identifying potential opportunities to <b>maximize the occupancy rate</b> and thus <b>bolster the average profitability generated per seat</b>.
@@ -42,15 +42,13 @@ The main goal of this study is to identify opportunities to increase occupancy r
 
 ### How the number of tickets booked and total amount earned changed over time?
 
-<div align="center">
-
-</div>
+![image](https://github.com/yashmangal112/Airlines-Data-Analysis/assets/104120843/821162f4-47a3-49e3-bffd-2b7116f3a93c)
+![image](https://github.com/yashmangal112/Airlines-Data-Analysis/assets/104120843/06f9c731-14c9-4d10-a78f-32bc5b03cced)
 
 ### Average charges for each aircraft with different fare conditions
 
-<div align="center">
-
-</div>
+![image](https://github.com/yashmangal112/Airlines-Data-Analysis/assets/104120843/d488be36-2ea4-40ae-bfe9-b1098f9e0b1f)
+![image](https://github.com/yashmangal112/Airlines-Data-Analysis/assets/104120843/01c26743-7869-4b76-8af7-6cd91554ac50)
 
 ## Analyzing occupancy rate
 
@@ -119,3 +117,4 @@ The average occupancy per aircraft is another critical number to consider. Airli
 <div align="justify">To summarize, a comprehensive examination of revenue-related metrics, including annual total revenue, average revenue per ticket, and average occupancy rate per aircraft, assumes paramount importance for airlines in their pursuit of optimizing profitability. Such analyses enable airlines to identify potential areas for enhancement and adjust pricing strategies in accordance with the insights derived from these performance indicators. Particularly, a higher occupancy rate emerges as a pivotal factor contributing to heightened profitability by maximizing revenue generation while minimizing operational costs associated with unoccupied seats.<br>
 Furthermore, it is advisable for the airline to undertake a review of aircraft pricing, as excessively low or high prices can significantly influence customer ticket purchasing behaviour. By carefully considering the facilities offered and the overall condition of the aircraft, the airline should establish a judicious and fair pricing structure.
 </div>
+
