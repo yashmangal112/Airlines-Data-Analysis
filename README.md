@@ -115,6 +115,7 @@ The average occupancy per aircraft is another critical number to consider. Airli
 
 ## Conclusion
 <div align="justify">To summarize, a comprehensive examination of revenue-related metrics, including annual total revenue, average revenue per ticket, and average occupancy rate per aircraft, assumes paramount importance for airlines in their pursuit of optimizing profitability. Such analyses enable airlines to identify potential areas for enhancement and adjust pricing strategies in accordance with the insights derived from these performance indicators. Particularly, a higher occupancy rate emerges as a pivotal factor contributing to heightened profitability by maximizing revenue generation while minimizing operational costs associated with unoccupied seats.<br>
-Furthermore, it is advisable for the airline to undertake a review of aircraft pricing, as excessively low or high prices can significantly influence customer ticket purchasing behaviour. By carefully considering the facilities offered and the overall condition of the aircraft, the airline should establish a judicious and fair pricing structure.
+Furthermore, it is advisable for the airline to undertake a review of aircraft pricing, as excessively low or high prices can significantly influence customer ticket purchasing behaviour. By carefully considering the facilities offered and the overall condition of the aircraft, the airline should establish a judicious and fair pricing structure.<br>
+The analysis in this report was conducted using airline data from Kaggle and utilizing YouTube as a resource for learning data analysis techniques The technologies used for the analysis were <b>Python</b> and <b>SQL</b>.
 </div>
 
